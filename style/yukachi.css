@@ -39,6 +39,15 @@ div.tile-container .tile .tile-inner {
 .tile.tile-2048 .tile-inner {
     background-image: url('../i/yukachi/2048.gif')
 }
+.tile.tile-4096 .tile-inner {
+    background-image: url('../i/yukachi/4096.gif')
+}
+.tile.tile-8192 .tile-inner {
+    background-image: url('../i/yukachi/8192.gif')
+}
+.tile.tile-16384 .tile-inner {
+    background-image: url('../i/yukachi/super.gif')
+}
 .tile.tile-super .tile-inner {
     color: rgb(255, 230, 230);
     color: rgba(255, 230, 230, 0.9);
@@ -49,5 +58,5 @@ div.tile-container .tile .tile-inner {
 }
 #preload images body:after {
     display: none;
-    url('../i/yukachi/2.gif') url('../i/yukachi/4.gif') url('../i/yukachi/8.gif') url('../i/yukachi/16.gif') url('../i/yukachi/32.gif') url('../i/yukachi/64.gif') url('../i/yukachi/128.gif') url('../i/yukachi/256.gif') url('../i/yukachi/512.gif') url('../i/yukachi/1024.gif') url('../i/yukachi/2048.gif') url('../i/yukachi/super.gif')
+    url('../i/yukachi/2.gif') url('../i/yukachi/4.gif') url('../i/yukachi/8.gif') url('../i/yukachi/16.gif') url('../i/yukachi/32.gif') url('../i/yukachi/64.gif') url('../i/yukachi/128.gif') url('../i/yukachi/256.gif') url('../i/yukachi/512.gif') url('../i/yukachi/1024.gif') url('../i/yukachi/2048.gif') url('../i/yukachi/4096.gif') url('../i/yukachi/8192.gif') url('../i/yukachi/super.gif')
 }

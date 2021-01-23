@@ -1,9 +1,9 @@
 # 井口 2048
-井口 2048 (Iguchi 2048) is a clone of [Gabriele Cirulli's 2048](http://gabrielecirulli.github.io/2048/), using animated gifs of Iguchi Yuka and other voice actresses for tiles. 
+井口 4096 (Iguchi 4096) is a clone of [Gabriele Cirulli's 2048](http://gabrielecirulli.github.io/2048/), using animated gifs of Iguchi Yuka and other voice actresses for tiles. 
 
 ### Contributions
 
- - Thanks to [Gabriele Cirulli](https://github.com/gabrielecirulli) and the many contributors of [2048](http://gabrielecirulli.github.io/2048/) which this is based on.
+ - TheReal69 increased goal
 
 ### Screenshot
 
